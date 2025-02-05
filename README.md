@@ -1,1 +1,1 @@
-# calculator.js
+# rock-paper-scissor.js
